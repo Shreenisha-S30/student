@@ -1,2 +1,3 @@
 hi this is git lab which is used to give commands to push files to git hub
 this the lab of single credit
+updating in git hub
